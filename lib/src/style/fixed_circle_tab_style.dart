@@ -29,7 +29,7 @@ class FixedCircleTabStyle extends InnerBuilder {
 
     // Explicitly define the text style with font size 9
     var textStyle = style.textStyle(c, item.fontFamily).copyWith(
-          fontSize: 9, // Set title size to 9
+          fontSize: 12, // Set title size to 12
         );
 
     var margin = style.activeIconMargin;
